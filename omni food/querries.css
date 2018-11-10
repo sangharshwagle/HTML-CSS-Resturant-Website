@@ -1,0 +1,12 @@
+
+@media only screen and (max-width: 762px){
+    
+ h1 {
+    width:100%;
+    margin:0;
+    color:#fff;
+    font-size:100%;
+    word-spacing: 3px;   
+}
+}
+    
